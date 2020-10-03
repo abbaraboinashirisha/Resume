@@ -23,8 +23,13 @@ table{
     text-decoration: underline;
  }
  hr{
-     border: none;
+    color:white;
+     height: 20px;
+     width:20%;
+     margin-left: 60%;
+     border-style: dotted none none;
      
+     border-width:10px;     
 }
 i{
     margin-right: 8px;
